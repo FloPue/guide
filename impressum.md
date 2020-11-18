@@ -8,7 +8,7 @@ Angaben gemäß §5 TMG:
 ### Herausgeber
 ClariLab GmbH & Co. KG  
 Platz der Einheit 2  
-60327 Frankfurt am Main
+60327 Frankfurt am Mai
 
 ### Geschäftsführer
 Tobias Eiss, Tobias Weber
